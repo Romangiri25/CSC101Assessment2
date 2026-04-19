@@ -1,0 +1,1 @@
+Programming is the process of creating instructions that a computer follows to perform tasks. It involves writing code using programming languages like Python or Java. Programmers use logic, problem-solving, and creativity to build software, websites, and apps that solve real-world problems and make tasks faster and more efficient.
