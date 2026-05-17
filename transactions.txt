@@ -1,0 +1,7 @@
+Groceries, -55.40
+salary, 1500.00
+coffee, -4.50
+BAD LINE HERE
+Netflix, -15.99
+refund, 35.50
+Internet, -80
